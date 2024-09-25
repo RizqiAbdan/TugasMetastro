@@ -2,7 +2,7 @@
 # Sistem Pakar Diagnosa Penyakit Tanaman Padi Berbasis WEB Dengan Forward dan Backward Chaining - By: gustiawanadi
 
 ## Screenshot Akun GitHub
-![Screenshot Akun GitHub](https://github.com/RizqiAbdan/TugasMetastro/blob/main/Cuplikan%20layar%202024-09-25%20194342.png)
+![Screenshot Akun GitHub](https://github.com/RizqiAbdan/TugasMetastro/blob/main/Cuplikan%20layar%202024-09-25%20214443.png)
 
 ## Project Pembahasan: [Sistem Pakar Diagnosa Penyakit Tanaman Padi Berbasis WEB Dengan Forward dan Backward Chaining]
 
